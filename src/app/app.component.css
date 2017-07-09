@@ -1,0 +1,47 @@
+.main .social-medias a{
+  text-decoration: none;
+}
+
+.main .social-medias img{
+  width: 4%;
+}
+
+.main .contact div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  margin-bottom: 5px;
+  color: grey;
+}
+
+.main .contact div span {
+  margin-left: 5px;
+}
+
+.main md-card {
+  margin-bottom: 1%;
+  background-color: silver;
+}
+
+.main md-card:first-of-type{
+  margin-top: 1%;
+}
+
+.main md-card md-card-title {
+  color: #fff;
+}
+
+.main .chip {
+  margin-bottom: 10px;
+}
+
+.main md-list p {
+  font-weight: 600;
+}
+
+.main md-list p,
+.main md-list span,
+.main md-list {
+  margin-right: 1%;
+}
